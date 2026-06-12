@@ -1,0 +1,15 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.env.local
+
+# Dependencies (if you add any)
+node_modules/
+package-lock.json
